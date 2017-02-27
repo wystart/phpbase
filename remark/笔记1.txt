@@ -1,0 +1,11 @@
+1、php文件  index.php 结尾的文件
+2、php代码要放到   <?php   ?>  里面
+3、php注释方法
+   //  单行在注释   ctrl+/
+   /*  内容   */  多行在注释  ctrl+shift+/
+4、集成环境的使用
+    phpstorm  IDE
+    复制当前行   ctrl+D
+    删除当前行   ctrl+Y
+    tab  键
+
