@@ -1,0 +1,44 @@
+更多内容请关注 http://www.wangyuansheng.cn/
+运行php环境
+安装集成开发包phpstudy即可
+
+下载：可以百度下载或在学习群中下载
+
+安装：一直点击下一步即可。 
+
+php基础
+1、php是一个服务器端的语言，它是运行在服务器的，客户使用是感受不到的
+2、php文件是以 .php 结尾的
+
+3、php的相关代码应写在<?php  ....   ?> 之中
+
+4、php注释的方法
+
+      1>  //单选注释
+
+      2>  /*多行注释
+
+            多行注释
+
+          */
+
+      3>  /**
+
+          块注释
+
+          */
+
+5、echo 方法。输出函数
+
+   如 echo 'Hello World!';
+
+一些建议
+请这些推荐一些学习php非常有用的网站
+
+https://github.com/wystart/phpbase/releases   学习内容不同版本下载
+
+http://www.w3school.com.cn/php/index.asp      W3cschool 的标准文档
+
+http://www.runoob.com/php/php-tutorial.html   菜鸟教程
+
+http://www.zixue.it/forum.php?mod=viewthread&tid=666&fromuid=138  （十八哥php 视频教程）
